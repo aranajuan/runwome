@@ -1,11 +1,12 @@
 # RUN WOME
 
 cliente:
-([cliente](https://jpas.com.ar/jenkins/job/unlam-jrpg-client/ws/build/libs/jrpg-cliente-0.1.jar))
-([configs](https://jpas.com.ar/jenkins/job/unlam-jrpg-client/ws/config.properties))
+([cliente](http://bit.ly/2sPehac))
+([configs](http://bit.ly/2tyx1rl))
 
 
 server:
-([server](https://jpas.com.ar/jenkins/job/unlam-jrpg-server/ws/build/libs/jrpg-servidor-0.1.jar))
-([configs](https://jpas.com.ar/jenkins/job/unlam-jrpg-server/ws/womedata/*zip*/womedata.zip))
+([server](http://bit.ly/2syB8CI))
+([configs](http://bit.ly/2tyF5bR))
 
+Descomprimir configs de server
